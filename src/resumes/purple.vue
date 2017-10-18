@@ -147,7 +147,7 @@ export default Vue.component('purple', getVueOptions(name));
             #headshot {
                 width: 100%;
                 height: 100%;
-                background:url('../assets/person.jpg');
+                background:url('../assets/person.png');
                 background-position:center;
                 background-size:cover;
             }

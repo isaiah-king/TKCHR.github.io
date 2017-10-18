@@ -38,7 +38,7 @@ best-resume-ever requires at least node v.8.5.
 
 3. Edit your personal data in `src/person.js`.
 
-4. Replace your profile-picture in `src/assets/person.jpg`.
+4. Replace your profile-picture in `src/assets/person.png`.
 
 5. Preview resumes with `npm run dev`.
 
